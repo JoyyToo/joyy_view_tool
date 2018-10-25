@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for application I use}
   spec.description   = %q{Provides generated HTML datafor rails application}
-  spec.homepage      = "https://github.com/JoyyToo/DevcampPortfolio"
+  spec.homepage      = "https://github.com/JoyyToo/joyy_view_tool"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
